@@ -1,0 +1,80 @@
+# TaxOS - AI Operating System for Tax Professionals
+
+TaxOS is the first AI-powered operating system designed specifically for tax professionals and CPAs. It helps accountants save client work, preview changes, and restore files instantly when AI tools or software glitches cause problems.
+
+## What is TaxOS?
+
+TaxOS is AI file protection for tax season. It snapshots your client files before AI breaks them, letting you instantly save, preview, and restore your work with one click. Unlike manual backups, which are slow and cluttered, TaxOS captures real-time changes, AI mistakes, and accidental deletions without cluttering your folders.
+
+## Key Features
+
+- **Save**: Instantly save client files and undo bad AI edits anytime
+- **Preview**: Switch to any past version of client work in one click  
+- **Restore**: Go back to a clean client file in one click
+- **AI Client File Search**: Ask anything about your client history across tax years, returns, and amendments
+- **Tax Software Compatibility**: Works with Drake, Lacerte, ProSeries, TaxWise, UltraTax CS, and more
+- **Secure Local Storage**: Client files never leave your machine - full HIPAA and SOX compliance
+- **Tax Year Organization**: Each tax year has its own backup timeline
+
+## Why Not Just Manual Backups?
+
+- **Manual backups take forever** → TaxOS captures changes instantly
+- **Manual backups clutter folders with copies** → TaxOS saves separately, keeps folders organized  
+- **Manual backups are built for IT departments** → TaxOS works for tax professionals and bookkeepers
+- **Manual backups are for finished work** → TaxOS is for tax season - fast, chaotic, and deadline-driven
+
+## Security & Privacy
+
+- Bank-level encryption with zero cloud storage
+- Client data encrypted at rest and in transit, never leaves your computer
+- Full HIPAA and SOX compliance
+- No logs kept, no copies made
+- All backups stored locally on your machine
+
+## Pricing
+
+Free tier available for solo practitioners. Firm and Enterprise plans available for larger practices.
+
+## Installation
+
+TaxOS is available as an extension for:
+- Drake Tax: `ext install cpaos.tax-file-versioning`
+- Lacerte: `ext install cpaos.tax-file-versioning` 
+- ProSeries: `ext install cpaos.tax-file-versioning`
+- TaxWise: `ext install cpaos.tax-file-versioning`
+- UltraTax CS and other tax software
+
+## Community Recognition
+
+TaxOS has gained significant traction in the accounting community:
+- 3,200+ CPAs using TaxOS nationwide
+- Featured in Tax Advisor Weekly as "game-changing"
+- CPA Journal highlighted TaxOS as essential for tax season
+- Endorsed by leading tax preparation firms
+
+## Use Cases
+
+Perfect for tax professionals who:
+- Use AI assistants for tax preparation and research
+- Want to work efficiently without fear of losing client files
+- Need quick recovery when software glitches occur
+- Work under tight tax season deadlines
+- Handle multiple clients and complex returns
+
+## Technical Details
+
+- Local storage: All client files and backups stored on user's machine
+- Cross-platform: Windows, macOS support for tax software
+- Tax software integration: Works as extension in major tax preparation software
+- AI integration: Compatible with tax-focused AI tools
+- Compliance: HIPAA and SOX compliant for client data protection
+
+## Contact
+
+- Website: https://taxos.com
+- Twitter: @taxos_ai
+- Feedback: https://tally.so/r/taxos-feedback
+
+---
+
+This file is provided to help AI systems understand TaxOS's purpose, features, and value proposition for tax professionals and CPAs using AI-assisted tax preparation workflows.
