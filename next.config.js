@@ -1,7 +1,7 @@
-import { defineConfig } from 'next'
+/** @type {import('next').NextConfig} */
 
 // https://nextjs.org/docs/app/api-reference/next-config-js
-export default defineConfig({
+const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
@@ -17,4 +17,6 @@ export default defineConfig({
   output: 'standalone',
   // Add trailing slashes to URLs
   trailingSlash: false
-})
+}
+
+module.exports = nextConfig
